@@ -1,0 +1,32 @@
+.card {
+  width: 100%;
+  padding: 30px;
+  border-bottom: 1px solid #000;
+  display: flex;
+}
+
+.title {
+}
+
+.items {
+  flex: 1;
+  width: 50%;
+}
+
+.right {
+}
+.title {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.load {
+  font-size: 10px;
+  color: gray;
+}
+
+.weight {
+  font-size: 10px;
+  color: gray;
+  margin-left: 10px;
+}
